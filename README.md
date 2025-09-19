@@ -52,4 +52,4 @@ It demonstrates how to:
 
 ## 🔗 Reference list
 
-- Assisted by ChatGPT (GPT-5) [Large language model]. https://chat.openai.com/chat (ONLY FOR 2 LINES). 
+- Assisted by ChatGPT (GPT-5) [Large language model]. https://chat.openai.com/chat 'checkCellPhone' is AI assisted.
