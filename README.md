@@ -10,7 +10,7 @@ Like it?
 
 ## 📋 Project Overview  
 
-SteelBall is a Java console application created between **10 September and 19 September 2025** for practicing user registration and login validation as part of Part 1's POE. 
+SteelBall is a Java application for practicing user registration and login validation as part of Part 1's POE. 
 
 It demonstrates how to:  
 
