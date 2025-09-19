@@ -3,14 +3,14 @@
 SeelBall is the name I gave the app. 
 Like it?
 
-**Author:** ST10487418
+**Author:** ST10487418 SIBONISO JONATHAN NGUBANE
 **Last Updated:** 19 September 2025  
 
 ---
 
 ## 📋 Project Overview  
 
-SteelBall is a Java console application created between **10 September and 19 September 2025** for practicing user registration and login validation.  
+SteelBall is a Java console application created between **10 September and 19 September 2025** for practicing user registration and login validation as part of Part 1's POE. 
 
 It demonstrates how to:  
 
@@ -48,4 +48,8 @@ It demonstrates how to:
 - **12 September 2025** – Added password complexity validation.  
 - **15 September 2025** – Added login and return login status methods.  
 - **17 September 2025** – Added unit tests.  
-- **19 September 2025** – Final review and README created.  
+- **19 September 2025** – Final review and README created.
+
+## 🔗 Reference list
+
+- 
