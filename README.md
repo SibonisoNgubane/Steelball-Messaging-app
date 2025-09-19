@@ -1,6 +1,7 @@
-# Messaging-app
+# Messaging app
 # SteelBall – User Registration & Login Validation
-SeelBall is the name I gave the app. Like it?
+SeelBall is the name I gave the app. 
+Like it?
 
 **Author:** ST10487418
 **Last Updated:** 19 September 2025  
